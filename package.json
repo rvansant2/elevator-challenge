@@ -1,0 +1,19 @@
+{
+  "name": "elevator-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.json",
+    "test:watch": "npm run test -- --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "config": "^3.3.3"
+  }
+}

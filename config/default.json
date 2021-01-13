@@ -1,0 +1,9 @@
+{
+  "application": {
+    "fastSimulation": true,
+    "capacity": 10,
+    "maxNumberOfWorkers": 4,
+    "maxNumberOfFloors": 100,
+    "defaultFile": "input2.txt"
+  }
+}
